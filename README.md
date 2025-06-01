@@ -14,7 +14,7 @@
 </div>
 <div id="badges" align="center">
   <a href='https://steamcommunity.com/id/zondar__/'>
-    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
 <div align="center">
