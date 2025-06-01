@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <a href='https://steamcommunity.com/id/zondar__/'>
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  </a>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=z0nd4r&style=flat-square&color=blue" alt=""/>
 </div>
