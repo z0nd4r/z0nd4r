@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Backend Developer
+I am a Backend Developer (Intern)
 
 ---
 
