@@ -6,13 +6,9 @@
   <a href='https://youtube.com/@createdbyzondar'>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
-<div id="badges" align="center">
   <a href='https://t.me/by_zondar'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
-<div id="badges" align="center">
   <a href='https://steamcommunity.com/id/zondar__/'>
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
@@ -21,11 +17,13 @@
   <img src="https://komarev.com/ghpvc/?username=z0nd4r&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  praise the sun
-<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-</h1>
+  
+<p align="center"><img width="80%" alt="Hello, I'm Sergey!" src="./assets/gh-readme-header.png" /></a></p>  
 
-### :woman_technologist: About Me :
+| <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=z0nd4r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zondar's github stats" /></a> | <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0nd4r&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### :man_technologist: About Me :
 
 I am a Backend Developer (Intern)
 
@@ -51,9 +49,8 @@ I am a Backend Developer (Intern)
 
 ---
 
-[![Zondar's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zondar__&theme=dark)](https://github.com/z0nd4r/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/z0nd4r?theme=light&font=Noto%20Sans%20Telugu)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=z0nd4r&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <!--
 **z0nd4r/z0nd4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
