@@ -18,7 +18,7 @@
 </div>
 <h1 align="center">
   
-<p align="center"><img width="80%" alt="Hello, I'm Sergey!" src="./assets/gh-readme-header.png" /></a></p>  
+<p align="center">Hello, I'm Sergey!</p>  
 
 | <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=z0nd4r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zondar's github stats" /></a> | <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0nd4r&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
