@@ -49,7 +49,7 @@ I am a Backend Developer (Intern)
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/z0nd4r?theme=dark&font=Noto%20Sans%20Telugu)
+![LeetCode Stats](https://leetcard.jacoblin.cool/z0nd4r?theme=light&font=Noto%20Sans%20Telugu)
 
 
 <!--
