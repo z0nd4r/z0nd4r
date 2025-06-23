@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
+
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=z0nd4r&style=flat-square&color=blue" alt=""/>
 </div> -->
