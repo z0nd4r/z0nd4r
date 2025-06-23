@@ -2,19 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<iframe src="https://z0nd4r.github.io/github_style/social_network_links.html" width="100%" height="100" ></iframe>
-
-<!-- <div id="badges" align="center">
-  <a href='https://youtube.com/@createdbyzondar'>
+<div id="badges" align="center">
+  <a href='https://youtube.com/@createdbyzondar' style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href='https://t.me/by_zondar' style="text-decoration: none;">
+  <a href='https://t.me/by_zondar' style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href='https://steamcommunity.com/id/zondar__/'>
+  <a href='https://steamcommunity.com/id/zondar__/' style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-</div>-->
+</div>
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=z0nd4r&style=flat-square&color=blue" alt=""/>
 </div> -->
