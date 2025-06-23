@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href='https://youtube.com/@createdbyzondar' style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href='https://t.me/by_zondar' style="text-decoration: none !important;">
+  <a href='https://t.me/by_zondar'>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href='https://steamcommunity.com/id/zondar__/' style="text-decoration: none !important;">
+  <div style="text-decoration: none;> <a href='https://youtube.com/@createdbyzondar' style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href='https://steamcommunity.com/id/zondar__/'>
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
