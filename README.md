@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=z0nd4r&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 <h1 align="center">
   
 <p align="center">Hello, I'm Sergey!</p>  
