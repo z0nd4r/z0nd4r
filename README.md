@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer (Intern)
+I am a Python Developer (Intern)
 
 ---
 
