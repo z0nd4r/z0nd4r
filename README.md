@@ -9,7 +9,7 @@
  <!-- <div style="text-decoration: none;> <a href='https://youtube.com/@createdbyzondar' style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
- <div style="text-decoration: none;> <a href='https://steamcommunity.com/id/zondar__/'style="text-decoration: none;">
+ <div> <a href='https://steamcommunity.com/id/zondar__/'>
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
