@@ -22,7 +22,16 @@
   
 <p align="center">Hello, I'm Sergey!</p>  
 
-<img src="https://streak-stats.demolab.com?user=z0nd4r&theme=default&hide_border=true" alt="z0nd4r's GitHub Stats" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=z0nd4r&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=z0nd4r&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=z0nd4r&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=z0nd4r&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- | <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=z0nd4r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zondar's github stats" /></a> | <a href="https://github.com/z0nd4r/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0nd4r&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 
